@@ -150,5 +150,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanoops&show_icons=true&locale=en&layout=compact" alt="sayanoops" />
   <img src="https://github-readme-stats.vercel.app/api?username=sayanoops&show_icons=true&locale=en" alt="sayanoops" />
   <img height="195px" src="https://c.tenor.com/Hg2M_GS2gvMAAAAC/tenor.gif" alt="fun gif">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayanoops&" alt="sayanoops" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sayanoops" alt="GitHub Streak" /></a>
 </p>
