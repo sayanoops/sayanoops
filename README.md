@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Bag</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/a0d25985baf6d81bad1ed9b19c11cde2/tumblr_pnnghrOTQT1xwgezao3_540.gifv" alt="header gif">
